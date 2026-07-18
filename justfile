@@ -1,2 +1,2 @@
 build:
-	podman build -t getstd:latest -f ./container/containerfile ./container
+	podman build -t standards-lake:latest -f ./container/containerfile ./container/
